@@ -22,5 +22,5 @@ As tecnologias utilizadas no projeto correspondem aos principais métodos e requ
 
 
 ## Documentação da API
-Link com documentação completa abaixo:
+Link com documentação completa:
 https://gusdevr.github.io/Lavier/
